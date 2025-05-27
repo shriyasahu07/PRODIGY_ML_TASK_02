@@ -1,8 +1,8 @@
-# 🛍️ Customer Segmentation using K-Means Clustering
+# Customer Segmentation using K-Means Clustering
 
 This project applies **K-Means Clustering** to segment retail customers based on their purchase behavior. It helps identify distinct customer groups for targeted marketing strategies using **Annual Income** and **Spending Score**.
 
-## 📂 Dataset
+## Dataset
 
 - **Source**: [Kaggle - Customer Segmentation](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 - **File**: `Mall_Customers.csv`
@@ -10,18 +10,18 @@ This project applies **K-Means Clustering** to segment retail customers based on
   - `Annual Income (k$)`
   - `Spending Score (1-100)`
 
-## 🧠 Objective
+## Objective
 
 To identify groups of customers with similar purchasing habits using unsupervised machine learning (K-Means), and allow user interaction through a **Streamlit-based web application**.
 
-## 🧪 Technologies Used
+## Technologies Used
 
-- Python 🐍
+- Python 
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
 
-## 📈 Clustering Approach
+## Clustering Approach
 
 1. **Data Preprocessing**:
    - Load and clean the dataset.
